@@ -1,0 +1,6 @@
+@Cats_HostAddress = http://localhost:5026
+
+GET {{Cats_HostAddress}}/GetCat/
+Accept: application/json
+
+###
